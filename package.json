@@ -2,7 +2,7 @@
   "name" : "dbootstrap",
   "description": "Bootstrap theme for Dojo",
   "version" : "0.1.1",
-  "main": "./source/dbootstrap/main.js",
+  "main": "./release/0.1.1/main.js",
   "url": "https://github.com/thesociable/dbootstrap",
   "repository" : {
     "type": "git",
